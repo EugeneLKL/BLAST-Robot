@@ -14,69 +14,69 @@ Software required: Microsoft Visual Studio 2019
 
 # User Manual
 
-Movement,
-2 - walking animation
-/ - Reset the position for the body from the walking animation
+Movement,<br />
+2 - walking animation<br />
+/ - Reset the position for the body from the walking animation<br />
 
-Right arm animation,
-1 - scratching head animation
-Z - Move up the right arm along x-axis
-X - Move down the right arm along x-axis
-C - Move up the right arm along z-axis
-V - Move down the right arm along z-axis
-B - Move up forearm 
-N - Move down forearm
-M - Rotate up and down the right palm
-, (comma) - Rotate left and right the right palm
-. (dot) - Reset the position for the right arm
+Right arm animation,<br />
+1 - scratching head animation<br />
+Z - Move up the right arm along x-axis<br />
+X - Move down the right arm along x-axis<br />
+C - Move up the right arm along z-axis<br />
+V - Move down the right arm along z-axis<br />
+B - Move up forearm <br />
+N - Move down forearm<br />
+M - Rotate up and down the right palm<br />
+, (comma) - Rotate left and right the right palm<br />
+. (dot) - Reset the position for the right arm<br />
 
-Left arm animation,
-D - Move up the left arm along x-axis
-F - Move down the left arm along x-axis
-G - Move up the left arm along z-axis
-H - Move down the left arm along z-axis
-J - Move up left forearm 
-K - Move down left forearm
-L - Rotate up and down the left palm
-; (semicolon) - Rotate left and right the left palm
-‘ (single quote) - Reset the position for the left arm
+Left arm animation,<br />
+D - Move up the left arm along x-axis<br />
+F - Move down the left arm along x-axis<br />
+G - Move up the left arm along z-axis<br />
+H - Move down the left arm along z-axis<br />
+J - Move up left forearm <br />
+K - Move down left forearm<br /><br />
+L - Rotate up and down the left palm<br />
+; (semicolon) - Rotate left and right the left palm<br />
+‘ (single quote) - Reset the position for the left arm<br />
 
-Texture,
-8 - Turn on/off texture
-9 - Apply first texture (metal texture)
-0 - Apply second texture (concrete texture)
+Texture,<br />
+8 - Turn on/off texture<br />
+9 - Apply first texture (metal texture)<br />
+0 - Apply second texture (concrete texture)<br />
 
-Light,
-Shift key - Reset light position
-Space bar - Turn on/off light
-Up key - Move light up (+y-axis)
-Down key - Move light down (-y-axis)
-Left key - Move light left (-x-axis)
-Right key - Move light right (+x-axis)
-3 - Move light closer (+z-axis)
-4 - Move light further (-z-axis)
+Light,<br />
+Shift key - Reset light position<br />
+Space bar - Turn on/off light<br />
+Up key - Move light up (+y-axis)<br />
+Down key - Move light down (-y-axis)<br />
+Left key - Move light left (-x-axis)<br />
+Right key - Move light right (+x-axis)<br />
+3 - Move light closer (+z-axis)<br />
+4 - Move light further (-z-axis)<br />
 
-Body part animation,
-Q - Wings animation
-W - Mouth animation
-E - Tail animation
-Y - Turn head left
-U - Turn head right
+Body part animation,<br />
+Q - Wings animation<br />
+W - Mouth animation<br />
+E - Tail animation<br />
+Y - Turn head left<br />
+U - Turn head right<br />
 
-Weapon,
-A - Rotate the canon (Prepare to shoot)
-S - Shoot laser
+Weapon,<br />
+A - Rotate the canon (Prepare to shoot)<br />
+S - Shoot laser<br />
 
-Camera,
-Left mouse click - Camera zoom in
-Right mouse click - Camera zoom out
-Middle mouse hold and move - Move camera around
+Camera,<br />
+Left mouse click - Camera zoom in<br />
+Right mouse click - Camera zoom out<br />
+Middle mouse hold and move - Move camera around<br />
 
-Viewport,
-O - Switch to Orthographic view
-P - Switch to Perspective view
+Viewport,<br />
+O - Switch to Orthographic view<br />
+P - Switch to Perspective view<br />
 
-Miscellaneous,
-R - Increase Hp 
-T - Decrease Hp
-5 - View Sky Box (Background)
+Miscellaneous,<br />
+R - Increase Hp <br />
+T - Decrease Hp<br />
+5 - View Sky Box (Background)<br />
