@@ -1,0 +1,690 @@
+﻿  RobotParts.cpp
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(27,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(96,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(113,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(114,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(119,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(120,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(155,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(428,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(429,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(716,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(717,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(734,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(735,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(735,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(752,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(753,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(783,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(784,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(784,11): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(787,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(787,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(788,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(788,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(798,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(798,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(799,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(799,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(820,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(821,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(821,11): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(824,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(824,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(825,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(825,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(835,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(835,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(836,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(836,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(861,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(862,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(863,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(866,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(867,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(868,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(946,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1081,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1087,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1088,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1089,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1098,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1099,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1100,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1116,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1122,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1123,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1124,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1131,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1132,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1133,27): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1159,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1160,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1160,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1178,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1178,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1178,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1179,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1187,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1188,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1188,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1188,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1189,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1206,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1206,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1206,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1207,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1216,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1216,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1216,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1217,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1233,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1234,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1234,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1234,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1235,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1240,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1242,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1242,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1242,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1243,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1261,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1262,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1262,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1262,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1263,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1268,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1269,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1269,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1269,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1270,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1278,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1278,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1278,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1279,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1294,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1295,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1295,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1295,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1296,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1303,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1304,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1304,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1304,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1305,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1307,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1307,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1307,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1308,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1311,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1311,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1311,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1312,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1320,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1333,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1333,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1333,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1334,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1350,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1352,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1357,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1358,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1360,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1365,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1367,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1395,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1411,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1430,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1431,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1438,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1439,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1447,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1448,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1487,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1503,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1521,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1522,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1529,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1530,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1538,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1539,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1571,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1573,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1573,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1573,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1574,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1578,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1578,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1578,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1579,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1586,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1587,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1587,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1587,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1588,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1599,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1599,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1599,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1600,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1615,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1616,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1616,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1616,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1617,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1621,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1637,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1642,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1646,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1650,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1654,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1659,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1676,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1678,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1678,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1678,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1679,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1683,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1683,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1683,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1684,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1691,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1692,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1692,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1692,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1693,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1710,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1717,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1743,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1748,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1767,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1767,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1767,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1768,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1773,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1778,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1778,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1778,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1779,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1784,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1789,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1789,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1789,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1790,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1793,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1798,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1798,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1798,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1799,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1800,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1802,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1803,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1805,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1806,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1808,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1809,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1811,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1812,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1821,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1821,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1821,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1822,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1823,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1825,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1826,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1828,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1829,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1831,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1832,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1834,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1835,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1845,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1847,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1850,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1853,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1856,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1859,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1862,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1865,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1868,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1881,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1883,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1886,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1889,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1892,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1895,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1898,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1901,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1904,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1916,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1916,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1916,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1918,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1923,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1923,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1923,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1924,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1927,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1930,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1946,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1946,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1946,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1953,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1953,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1953,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1975,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1975,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1975,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1983,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1983,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1983,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1990,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1990,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1990,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1998,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1998,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(1998,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2006,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2006,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2006,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2015,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2017,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2030,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2030,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2030,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2031,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2036,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2041,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2041,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2041,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2042,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2047,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2052,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2052,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2052,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2053,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2054,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2059,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2059,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2059,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2060,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2061,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2066,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2066,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2066,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2067,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2068,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2070,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2071,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2073,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2074,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2076,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2077,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2085,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2085,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2085,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2086,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2087,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2089,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2090,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2092,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2093,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2095,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2096,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2112,11): warning C4551: function call missing argument list
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2128,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2161,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2161,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2161,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2169,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2169,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2169,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2170,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2178,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2185,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2191,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2191,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2191,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2192,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2198,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2198,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2198,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2199,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2205,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2205,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2205,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2206,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2213,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2213,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2213,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2214,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2216,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2221,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2221,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2221,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2222,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2229,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2229,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2229,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2230,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2232,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2235,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2235,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2235,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2239,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2243,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2251,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2259,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2264,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2268,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2276,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2284,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2293,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2293,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2293,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2294,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2305,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2305,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2305,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2311,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2315,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2319,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2323,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2368,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2368,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2368,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2372,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2375,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2379,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2386,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2409,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2409,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2409,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2412,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2427,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2427,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2427,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2431,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2442,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2467,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2467,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2467,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2473,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2477,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2481,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2485,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2530,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2530,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2530,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2534,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2537,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2541,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2548,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2571,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2571,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2571,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2574,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2589,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2589,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2589,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2593,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2604,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2646,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2654,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2676,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2676,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2676,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2679,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2679,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2679,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2682,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2683,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2684,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2689,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2690,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2691,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2696,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2698,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2699,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2704,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2706,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2707,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2713,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2713,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2713,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2716,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2718,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2721,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2721,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2721,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2724,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2728,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2730,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2735,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2737,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2742,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2744,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2749,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2751,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2759,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2761,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2761,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2761,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2762,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2786,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2786,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2786,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2792,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2798,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2843,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2847,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2848,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2853,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2855,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2859,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2861,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2867,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2869,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2870,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2871,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2877,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2879,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2880,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2881,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2889,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2894,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2898,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2900,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2907,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2909,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2910,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2911,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2912,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2919,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2921,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2925,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2933,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2934,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2937,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2940,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2941,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2942,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2943,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2953,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2954,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2955,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2961,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2963,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2964,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2965,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2971,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2972,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2977,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2979,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2980,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2981,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2982,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2983,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2990,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(2991,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3056,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3064,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3086,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3094,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3102,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3110,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3125,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3132,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3236,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3237,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3262,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3263,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3287,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3287,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3287,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3342,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3342,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3342,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3349,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3349,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3349,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3358,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3367,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3368,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3368,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3368,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3369,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3376,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3385,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3386,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3386,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3386,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3387,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3452,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3468,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3479,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3555,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3555,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3555,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3559,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3566,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3573,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3580,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3587,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3593,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3599,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3599,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3599,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3602,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3608,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3631,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3637,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3643,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3648,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3654,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3660,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3682,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3688,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3694,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3699,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3713,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3714,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3753,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3759,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3797,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3803,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3839,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3845,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3910,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(3911,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4055,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4076,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4076,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4076,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4092,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4132,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4132,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4132,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4142,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4142,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4142,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4149,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4149,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4149,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4158,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4158,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4158,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4166,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4166,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4166,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4172,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4172,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4172,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4179,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4179,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4179,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4188,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4188,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4188,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4196,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4196,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4196,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4204,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4204,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4204,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4212,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4212,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4212,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4218,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4218,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4218,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4225,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4225,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4225,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4227,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4232,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4232,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4232,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4234,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4251,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4251,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4251,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4258,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4258,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4258,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4270,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4270,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4270,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4283,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4283,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4283,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4295,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4295,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4295,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4313,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4313,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4313,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4321,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4321,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4321,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4334,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4334,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4334,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4335,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4336,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4347,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4347,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4347,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4360,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4360,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4360,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4361,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4362,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4442,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4456,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4501,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4508,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4525,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4542,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4557,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\eugen\source\repos\RobotParts\RobotParts\RobotParts.cpp(4564,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  RobotParts.vcxproj -> C:\Users\eugen\source\repos\RobotParts\Debug\RobotParts.exe
