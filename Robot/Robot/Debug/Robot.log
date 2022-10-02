@@ -1,0 +1,694 @@
+﻿  Assignment.cpp
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(28,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(35,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(107,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(125,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(126,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(131,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(132,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(167,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(552,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(553,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(840,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(841,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(858,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(859,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(859,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(876,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(877,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(907,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(908,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(908,11): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(911,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(911,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(912,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(912,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(922,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(922,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(923,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(923,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(944,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(945,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(945,11): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(948,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(948,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(949,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(949,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(959,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(959,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(960,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(960,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(985,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(986,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(987,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(990,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(991,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(992,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1070,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1204,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1205,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1212,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1213,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1223,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1224,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1254,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1260,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1261,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1269,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1270,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1271,27): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1297,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1298,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1298,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1316,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1316,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1316,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1317,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1325,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1326,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1326,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1326,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1327,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1344,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1344,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1344,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1345,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1354,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1354,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1354,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1355,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1371,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1372,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1372,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1372,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1373,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1378,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1380,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1380,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1380,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1381,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1399,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1400,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1400,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1400,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1401,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1406,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1407,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1407,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1407,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1408,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1416,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1416,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1416,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1417,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1432,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1433,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1433,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1433,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1434,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1441,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1442,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1442,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1442,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1443,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1445,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1445,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1445,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1446,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1449,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1449,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1449,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1450,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1458,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1471,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1471,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1471,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1472,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1486,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1486,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1486,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1489,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1490,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1495,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1496,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1497,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1502,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1503,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1531,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1547,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1566,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1567,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1574,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1575,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1583,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1584,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1623,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1639,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1657,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1658,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1665,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1666,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1674,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1675,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1707,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1709,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1709,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1709,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1710,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1714,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1714,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1714,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1715,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1722,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1723,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1723,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1723,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1724,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1735,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1735,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1735,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1736,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1751,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1752,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1752,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1752,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1753,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1757,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1772,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1772,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1772,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1774,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1778,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1782,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1785,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1789,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1793,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1810,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1812,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1812,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1812,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1813,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1817,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1817,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1817,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1818,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1825,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1826,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1826,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1826,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1827,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1844,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1851,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1877,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1882,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1901,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1901,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1901,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1902,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1907,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1912,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1912,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1912,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1913,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1918,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1923,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1923,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1923,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1924,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1927,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1932,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1932,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1932,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1933,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1934,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1936,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1937,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1939,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1940,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1942,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1943,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1945,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1946,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1955,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1955,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1955,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1956,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1957,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1959,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1960,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1962,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1963,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1965,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1966,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1968,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1969,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1979,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1981,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1984,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1987,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1990,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1993,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1996,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(1999,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2002,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2015,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2017,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2020,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2023,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2026,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2029,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2032,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2035,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2038,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2050,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2050,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2050,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2052,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2057,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2057,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2057,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2058,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2061,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2064,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2080,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2080,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2080,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2087,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2087,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2087,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2109,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2109,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2109,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2117,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2117,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2117,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2124,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2124,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2124,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2132,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2132,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2132,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2140,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2140,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2140,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2149,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2151,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2164,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2164,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2164,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2165,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2170,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2175,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2175,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2175,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2176,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2181,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2186,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2186,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2186,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2187,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2188,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2193,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2193,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2193,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2194,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2195,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2200,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2200,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2200,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2201,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2202,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2204,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2205,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2207,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2208,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2210,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2211,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2219,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2219,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2219,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2220,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2221,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2223,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2224,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2226,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2227,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2229,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2230,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2246,11): warning C4551: function call missing argument list
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2262,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2293,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2293,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2293,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2301,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2301,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2301,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2302,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2310,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2317,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2323,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2323,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2323,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2324,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2330,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2330,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2330,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2331,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2337,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2337,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2337,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2338,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2345,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2345,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2345,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2346,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2348,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2353,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2353,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2353,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2354,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2361,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2361,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2361,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2362,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2364,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2367,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2367,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2367,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2371,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2375,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2383,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2391,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2396,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2400,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2408,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2416,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2425,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2425,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2425,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2437,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2437,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2437,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2443,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2447,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2451,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2455,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2500,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2500,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2500,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2504,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2507,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2511,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2518,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2541,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2541,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2541,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2544,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2559,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2559,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2559,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2563,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2574,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2599,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2599,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2599,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2605,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2609,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2613,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2617,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2662,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2662,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2662,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2666,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2669,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2673,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2680,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2703,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2703,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2703,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2706,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2721,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2721,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2721,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2725,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2736,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2778,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2786,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2808,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2808,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2808,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2811,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2811,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2811,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2814,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2815,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2816,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2821,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2822,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2823,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2828,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2830,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2831,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2836,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2838,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2839,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2845,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2845,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2845,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2848,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2850,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2853,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2853,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2853,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2856,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2860,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2862,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2867,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2869,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2874,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2876,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2881,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2883,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2891,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2893,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2893,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2893,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2894,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2918,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2918,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2918,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2924,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2930,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2975,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2979,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2980,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2985,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2987,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2991,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2993,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(2999,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3001,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3002,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3003,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3009,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3011,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3012,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3013,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3021,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3026,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3030,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3032,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3039,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3041,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3042,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3043,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3044,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3051,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3053,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3057,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3065,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3066,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3069,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3072,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3073,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3074,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3075,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3085,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3086,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3087,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3093,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3095,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3096,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3097,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3103,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3104,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3109,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3111,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3112,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3113,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3114,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3115,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3122,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3123,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3188,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3196,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3218,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3226,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3234,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3242,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3257,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3264,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3368,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3369,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3394,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3395,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3419,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3419,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3419,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3474,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3474,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3474,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3481,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3481,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3481,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3490,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3499,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3500,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3500,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3500,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3501,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3508,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3517,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3518,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3518,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3518,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3519,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3584,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3600,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3611,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3687,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3687,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3687,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3691,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3698,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3705,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3712,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3719,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3725,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3731,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3731,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3731,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3734,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3740,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3763,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3769,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3775,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3780,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3786,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3792,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3814,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3820,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3826,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3831,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3845,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3846,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3885,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3891,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3929,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3935,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3971,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(3977,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4042,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4043,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4187,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4208,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4208,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4208,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4224,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4264,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4264,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4264,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4274,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4274,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4274,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4281,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4281,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4281,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4290,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4290,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4290,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4298,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4298,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4298,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4304,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4304,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4304,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4311,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4311,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4311,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4320,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4320,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4320,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4328,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4328,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4328,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4336,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4336,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4336,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4344,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4344,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4344,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4350,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4350,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4350,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4357,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4357,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4357,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4359,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4364,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4364,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4364,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4366,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4383,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4383,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4383,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4390,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4390,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4390,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4402,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4402,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4402,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4415,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4415,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4415,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4427,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4427,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4427,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4445,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4445,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4445,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4453,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4453,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4453,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4466,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4466,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4466,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4467,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4468,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4479,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4479,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4479,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4492,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4492,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4492,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4493,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4494,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4602,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4616,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4661,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4668,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4685,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4702,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4723,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\source\repos\Robot\Robot\Assignment.cpp(4730,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Robot.vcxproj -> C:\Users\HP\source\repos\Robot\Debug\Robot.exe
